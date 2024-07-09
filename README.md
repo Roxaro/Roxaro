@@ -1,4 +1,4 @@
-Your typical roblox dev
+Your typical game dev
 
 <!---
 Roxaro/Roxaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
