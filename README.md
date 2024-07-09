@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Roxaro
-- 👀 I’m interested in game development and programming.
-- 🌱 I’m currently learning app development with C++.
-- 💞️ I’m looking to collaborate on nothing right now.
-- 📫 How to reach me: discord roxaro.
-- ⭐ My portfolio: https://sites.google.com/view/roxaros-portfolio
+Your typical roblox dev
 
 <!---
 Roxaro/Roxaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
